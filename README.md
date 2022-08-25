@@ -1,15 +1,13 @@
 # Semana Front-End :: Mundo Invertido
 
 <p align="center">
-    <img width="300" src="https://github.com/alnsanches/mundo-invertido/blob/main/mundo-normal.jpg"> <img width="300" src="https://github.com/alnsanches/mundo-invertido/blob/main/mundo_invertido.jpg">
+    <img width="400" src="https://github.com/alnsanches/mundo-invertido/blob/main/mundo-normal.jpg"> <img width="400" src="https://github.com/alnsanches/mundo-invertido/blob/main/mundo_invertido.jpg">
 </p>
 
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
+
 ## 💻 Tecnologias
 - HTML
 - CSS
