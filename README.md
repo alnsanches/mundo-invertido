@@ -1,5 +1,7 @@
+# Semana Front-End :: Mundo Invertido
+
 <p align="center">
-    <img width="500" src="https://github.com/alnsanches/mundo-invertido/blob/main/mundo-normal.jpg"> <img width="500" src="https://github.com/alnsanches/mundo-invertido/blob/main/mundo_invertido.jpg">
+    <img width="300" src="https://github.com/alnsanches/mundo-invertido/blob/main/mundo-normal.jpg"> <img width="300" src="https://github.com/alnsanches/mundo-invertido/blob/main/mundo_invertido.jpg">
 </p>
 
 -------
